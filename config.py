@@ -1,0 +1,1 @@
+SECRET_KEY = "SAD))azx^kui8%w@r2+su%&n)#x6lasa5y@(vd8ow28pao^v8v%viSAD"
