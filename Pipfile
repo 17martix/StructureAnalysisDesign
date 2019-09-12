@@ -7,6 +7,14 @@ verify_ssl = true
 
 [packages]
 flask = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+ipython = "*"
+jupyter = "*"
+pandas = "*"
+sympy = "*"
+nose = "*"
 
 [requires]
 python_version = "3.6"
